@@ -78,13 +78,17 @@ Isolation = A₁ − A₂ = 20.0 − 1.0 = 19.0 dB. Interpretation: only ~1/79 o
 **H.	Conclusions:**
 
 Isolation between E and H arms (dB) = (A1 – A2) dB
+
 Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 
 **Precautions:**
 
 •	Check the connections before switching on the kit.
+
 •	Connections should be done properly.
+
 •	Observation should be taken properly.
 
 **Result:**
+
 Isolation between E and H arms ≈ 19 dB; power division in the collinear arms ≈ 3 dB (equal split).
