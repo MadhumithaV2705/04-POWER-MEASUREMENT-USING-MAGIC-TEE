@@ -79,7 +79,7 @@ The measured power distribution showed correct sum and difference behavior betwe
 
 Isolation between E and H arms (dB) = (A1 – A2) dB
 
-Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
+Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB = 716mV
 
 **Precautions:**
 
